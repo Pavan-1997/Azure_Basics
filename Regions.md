@@ -1,5 +1,5 @@
 # Exploring Regions and Availability Zones in Azure
-  
+   
 ## Regions in Azure      
  
 Azure is a cloud computing platform provided by Microsoft, and it is globally distributed across multiple geographic locations known as regions. Each Azure region is a set of data centers deployed within a defined geographic area, and it is designed to provide low-latency access to Azure services for users and applications in that region.
