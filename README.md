@@ -1,5 +1,5 @@
 # Azure_Basics
-     
+      
 ## What is Cloud ?   
 
 In simpler terms, imagine the cloud as a vast, virtual space where you can store files, run software, and access various services over the internet. 
