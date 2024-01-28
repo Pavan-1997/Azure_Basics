@@ -1,5 +1,4 @@
- IaaS vs PaaS vs SaaS models in 
-
+ IaaS vs PaaS vs SaaS models
 ## Infrastructure as a Service (IaaS)
 
 IaaS is a cloud computing model that provides virtualized computing resources over the internet. In Azure, IaaS offerings include virtual machines, storage, and networking components. Users have more control over the infrastructure but are responsible for managing and maintaining the operating system, middleware, and applications.
