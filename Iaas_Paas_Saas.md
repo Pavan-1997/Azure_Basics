@@ -1,4 +1,4 @@
- IaaS vs PaaS vs SaaS models in Azure
+ IaaS vs PaaS vs SaaS models in 
 
 ## Infrastructure as a Service (IaaS)
 
