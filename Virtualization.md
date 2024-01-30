@@ -1,4 +1,4 @@
-# Virtualization: An In-Depth Explanat
+# Virtualization: An In-Depth 
 
 ## Background
 
