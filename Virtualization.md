@@ -1,4 +1,4 @@
-# Virtualization: A
+# Virtualization: 
 
 ## Background
 
