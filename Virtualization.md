@@ -1,6 +1,6 @@
 # Virtualization: 
 
-## Background
+## Backgroun
 
 In traditional computing, a single physical server runs a single operating system, and applications are installed directly on that OS. This approach has limitations, such as underutilization of hardware resources, difficulty in managing multiple servers, and lack of flexibility in scaling.
 
