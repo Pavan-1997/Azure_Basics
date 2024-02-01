@@ -1,5 +1,5 @@
 # Virtualization:   
-   
+    
 In traditional computing, a single physical server runs a single operating system, and applications are installed directly on that OS. This approach has limitations, such as underutilization of hardware resources, difficulty in managing multiple servers, and lack of flexibility in scaling.
 
 **Virtualization** addresses these challenges by introducing a layer of abstraction between the hardware and the operating system. It enables the creation of multiple virtual instances, each running its own operating system and applications, on a single physical server. This technology has become fundamental in modern data centers and cloud computing environments.
