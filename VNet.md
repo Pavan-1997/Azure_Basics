@@ -9,7 +9,7 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 - **SSL Termination**: Offloads SSL processing, improving the efficiency of web servers.
 
 - **Web Application Firewall (WAF)**: Protects web applications from common web vulnerabilities and exploits.
-
+ 
 ## Azure Load Balancer
 
 Azure Load Balancer distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed. Key features include:
