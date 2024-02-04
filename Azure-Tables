@@ -1,6 +1,6 @@
 # Azure Tables  
     
-1. What is it?
+1. What is it? 
 
     Azure Tables is a NoSQL data store service provided by Azure.
     It stores large amounts of semi-structured data and allows for fast and efficient querying using a key-based access model.
