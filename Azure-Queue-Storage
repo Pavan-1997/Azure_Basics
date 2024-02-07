@@ -1,5 +1,5 @@
 # Azure Queue Storage  
-               
+                
 1. What is it?  
 
     Azure Queue Storage is a message queue service that allows decoupling of components in a distributed application.
