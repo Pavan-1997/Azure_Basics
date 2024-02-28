@@ -1,5 +1,5 @@
 # Azure DevOps Interview Questions:        
-              
+               
 ### Complete CI/CD Pipeline process:    
  
 Scenario: How does the Azure DevOps CI/CD Pipeline look in your organization ?
